@@ -1,0 +1,12 @@
+language=English
+laufen,run,1
+ziel,target,1
+starten,start,1
+gehen,go,0
+fliegen,fly,0
+language=Japan
+fliegen,tobu,1
+gehen,iku,1
+sitzen,o suwari,1
+ja,hai,1
+stehen,tachiagaru,0
